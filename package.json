@@ -1,0 +1,13 @@
+{
+  "name": "parkergang",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Joseph Parker",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
